@@ -1,0 +1,65 @@
+{
+    "JunkDump": {
+        "latest_info": {
+            "description": null,
+            "homepage_url": "https://github.com/blessed-forge/JunkDump",
+            "issues_url": "https://api.github.com/repos/blessed-forge/JunkDump/issues{/number}",
+            "name": "JunkDump"
+        },
+        "src": "blessed-forge"
+    },
+    "MegaphonePlus": {
+        "latest_info": {
+            "description": null,
+            "homepage_url": "https://github.com/blessed-forge/MegaphonePlus",
+            "issues_url": "https://api.github.com/repos/blessed-forge/MegaphonePlus/issues{/number}",
+            "name": "MegaphonePlus"
+        },
+        "src": "blessed-forge"
+    },
+    "NerfedButtons": {
+        "latest_info": {
+            "description": null,
+            "homepage_url": "https://github.com/blessed-forge/NerfedButtons",
+            "issues_url": "https://api.github.com/repos/blessed-forge/NerfedButtons/issues{/number}",
+            "name": "NerfedButtons"
+        },
+        "src": "blessed-forge"
+    },
+    "PaintTheLeader": {
+        "latest_info": {
+            "description": null,
+            "homepage_url": "https://github.com/blessed-forge/PaintTheLeader",
+            "issues_url": "https://api.github.com/repos/blessed-forge/PaintTheLeader/issues{/number}",
+            "name": "PaintTheLeader"
+        },
+        "src": "blessed-forge"
+    },
+    "RoR_SoR": {
+        "latest_info": {
+            "description": null,
+            "homepage_url": "https://github.com/blessed-forge/RoR_SoR",
+            "issues_url": "https://api.github.com/repos/blessed-forge/RoR_SoR/issues{/number}",
+            "name": "RoR_SoR"
+        },
+        "src": "blessed-forge"
+    },
+    "ZonePOP": {
+        "latest_info": {
+            "description": null,
+            "homepage_url": "https://github.com/blessed-forge/ZonePOP",
+            "issues_url": "https://api.github.com/repos/blessed-forge/ZonePOP/issues{/number}",
+            "name": "ZonePOP"
+        },
+        "src": "blessed-forge"
+    },
+    "followTheLeader": {
+        "latest_info": {
+            "description": null,
+            "homepage_url": "https://github.com/blessed-forge/followTheLeader",
+            "issues_url": "https://api.github.com/repos/blessed-forge/followTheLeader/issues{/number}",
+            "name": "followTheLeader"
+        },
+        "src": "blessed-forge"
+    }
+}
