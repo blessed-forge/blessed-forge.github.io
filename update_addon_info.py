@@ -1,27 +1,49 @@
 
+import os
 import json
-import requests
 
+import requests
+from packaging import version
 
 class GithubInfo:
 
     def __init__(self, owner):
         self.owner = owner
 
-    def raw_info(self, repo):
-        url = "http://api.github.com/repos/" + self.owner + '/' + repo
-        r = requests.get(url, headers={'Accept': 'application/vnd.github.v3+json'})
+    def _getj(self, url):
+        auth_env = os.environ.get('GITHUB_BASIC_AUTH')
+        auth = tuple(auth_env.split(':', 1)) if auth_env is not None else None
+        r = requests.get(url, headers={'Accept': 'application/vnd.github.v3+json'}, auth=auth)
         r.raise_for_status()
         return r.json()
 
+    def repo_info(self, repo):
+        return self._getj("http://api.github.com/repos/" + self.owner + '/' + repo)
+
+    def release_info(self, repo):
+        return self._getj("http://api.github.com/repos/" + self.owner + '/' + repo + '/tags')
+
+    def latest_release_info(self, repo):
+        rels = self.release_info(repo)
+        return max(rels, key=lambda k: version.parse(k['name']))
+
     def info(self, repo):
-        raw = self.raw_info(repo)
+        repoj = self.repo_info(repo)
         result = {
-            'homepage_url': raw['html_url'],
+            'homepage_url': repoj['html_url'],
         }
         for k in ('name', 'description', 'issues_url'):
-            result[k] = raw[k]
+            result[k] = repoj[k]
 
+        try:
+            relj = self.latest_release_info(repo)
+            result.update(**{
+                'release_name': relj['name'],
+                'release_zip': relj['zipball_url'],
+                'release_tar': relj['tarball_url']
+            })
+        except Exception as e:
+            print(f"Problem getting release for repo {repo}: {e!r}")
         return result
 
 

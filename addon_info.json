@@ -1,64 +1,109 @@
 {
-    "JunkDump": {
+    "DuffTimer": {
         "latest_info": {
             "description": null,
+            "homepage_url": "https://github.com/blessed-forge/DuffTimer",
+            "issues_url": "https://api.github.com/repos/blessed-forge/DuffTimer/issues{/number}",
+            "name": "DuffTimer",
+            "release_name": "v2.2.3",
+            "release_tar": "https://api.github.com/repos/blessed-forge/DuffTimer/tarball/v2.2.3",
+            "release_zip": "https://api.github.com/repos/blessed-forge/DuffTimer/zipball/v2.2.3"
+        },
+        "src": "blessed-forge"
+    },
+    "Enemy_Bitterstone": {
+        "latest_info": {
+            "description": "Bitterstone-flavored Enemy mod",
+            "homepage_url": "https://github.com/blessed-forge/Enemy_Bitterstone",
+            "issues_url": "https://api.github.com/repos/blessed-forge/Enemy_Bitterstone/issues{/number}",
+            "name": "Enemy_Bitterstone",
+            "release_name": "v2.8.0",
+            "release_tar": "https://api.github.com/repos/blessed-forge/Enemy_Bitterstone/tarball/v2.8.0",
+            "release_zip": "https://api.github.com/repos/blessed-forge/Enemy_Bitterstone/zipball/v2.8.0"
+        },
+        "src": "blessed-forge"
+    },
+    "JunkDump": {
+        "latest_info": {
+            "description": "Add a button to sell all grey items in a single click.",
             "homepage_url": "https://github.com/blessed-forge/JunkDump",
             "issues_url": "https://api.github.com/repos/blessed-forge/JunkDump/issues{/number}",
-            "name": "JunkDump"
+            "name": "JunkDump",
+            "release_name": "v1.2.2",
+            "release_tar": "https://api.github.com/repos/blessed-forge/JunkDump/tarball/v1.2.2",
+            "release_zip": "https://api.github.com/repos/blessed-forge/JunkDump/zipball/v1.2.2"
         },
         "src": "blessed-forge"
     },
     "MegaphonePlus": {
         "latest_info": {
-            "description": null,
+            "description": "Make your warband leader's pronouncement more noticeable",
             "homepage_url": "https://github.com/blessed-forge/MegaphonePlus",
             "issues_url": "https://api.github.com/repos/blessed-forge/MegaphonePlus/issues{/number}",
-            "name": "MegaphonePlus"
+            "name": "MegaphonePlus",
+            "release_name": "v2.2",
+            "release_tar": "https://api.github.com/repos/blessed-forge/MegaphonePlus/tarball/v2.2",
+            "release_zip": "https://api.github.com/repos/blessed-forge/MegaphonePlus/zipball/v2.2"
         },
         "src": "blessed-forge"
     },
     "NerfedButtons": {
         "latest_info": {
-            "description": null,
+            "description": "Allow a hotbar button to trigger whichever ability (from a list) is ready",
             "homepage_url": "https://github.com/blessed-forge/NerfedButtons",
             "issues_url": "https://api.github.com/repos/blessed-forge/NerfedButtons/issues{/number}",
-            "name": "NerfedButtons"
+            "name": "NerfedButtons",
+            "release_name": "v3.3.1",
+            "release_tar": "https://api.github.com/repos/blessed-forge/NerfedButtons/tarball/v3.3.1",
+            "release_zip": "https://api.github.com/repos/blessed-forge/NerfedButtons/zipball/v3.3.1"
         },
         "src": "blessed-forge"
     },
     "PaintTheLeader": {
         "latest_info": {
-            "description": null,
+            "description": "Put a star over your warband leader's head",
             "homepage_url": "https://github.com/blessed-forge/PaintTheLeader",
             "issues_url": "https://api.github.com/repos/blessed-forge/PaintTheLeader/issues{/number}",
-            "name": "PaintTheLeader"
+            "name": "PaintTheLeader",
+            "release_name": "v1.09",
+            "release_tar": "https://api.github.com/repos/blessed-forge/PaintTheLeader/tarball/v1.09",
+            "release_zip": "https://api.github.com/repos/blessed-forge/PaintTheLeader/zipball/v1.09"
         },
         "src": "blessed-forge"
     },
     "RoR_SoR": {
         "latest_info": {
-            "description": null,
+            "description": "Show global State of the Realm - Zone, Keep, and BO status for embattled zones",
             "homepage_url": "https://github.com/blessed-forge/RoR_SoR",
             "issues_url": "https://api.github.com/repos/blessed-forge/RoR_SoR/issues{/number}",
-            "name": "RoR_SoR"
+            "name": "RoR_SoR",
+            "release_name": "v1.1.3a",
+            "release_tar": "https://api.github.com/repos/blessed-forge/RoR_SoR/tarball/v1.1.3a",
+            "release_zip": "https://api.github.com/repos/blessed-forge/RoR_SoR/zipball/v1.1.3a"
         },
         "src": "blessed-forge"
     },
     "ZonePOP": {
         "latest_info": {
-            "description": null,
+            "description": "Show zone populations - Order, Destro, even per-class",
             "homepage_url": "https://github.com/blessed-forge/ZonePOP",
             "issues_url": "https://api.github.com/repos/blessed-forge/ZonePOP/issues{/number}",
-            "name": "ZonePOP"
+            "name": "ZonePOP",
+            "release_name": "v1.3.1",
+            "release_tar": "https://api.github.com/repos/blessed-forge/ZonePOP/tarball/v1.3.1",
+            "release_zip": "https://api.github.com/repos/blessed-forge/ZonePOP/zipball/v1.3.1"
         },
         "src": "blessed-forge"
     },
     "followTheLeader": {
         "latest_info": {
-            "description": null,
+            "description": "Add a button to one-click follow the warband leader _or_ your current target",
             "homepage_url": "https://github.com/blessed-forge/followTheLeader",
             "issues_url": "https://api.github.com/repos/blessed-forge/followTheLeader/issues{/number}",
-            "name": "followTheLeader"
+            "name": "followTheLeader",
+            "release_name": "v1.0.2",
+            "release_tar": "https://api.github.com/repos/blessed-forge/followTheLeader/tarball/v1.0.2",
+            "release_zip": "https://api.github.com/repos/blessed-forge/followTheLeader/zipball/v1.0.2"
         },
         "src": "blessed-forge"
     }
