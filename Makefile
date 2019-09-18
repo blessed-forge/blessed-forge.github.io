@@ -1,3 +1,4 @@
+PYTHON=?python3
 
 # putting a GITHUB_BASIC_AUTH def into Makefile.local makes life more pleasant
 -include Makefile.local
@@ -9,4 +10,4 @@ default:
 
 .PHONY: repo_update
 repo_update:
-	python3 ./update_addon_info.py
+	$(PYTHON) ./update_addon_info.py

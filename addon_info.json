@@ -53,9 +53,9 @@
             "homepage_url": "https://github.com/blessed-forge/NerfedButtons",
             "issues_url": "https://api.github.com/repos/blessed-forge/NerfedButtons/issues{/number}",
             "name": "NerfedButtons",
-            "release_name": "v3.3.1",
-            "release_tar": "https://api.github.com/repos/blessed-forge/NerfedButtons/tarball/v3.3.1",
-            "release_zip": "https://api.github.com/repos/blessed-forge/NerfedButtons/zipball/v3.3.1"
+            "release_name": "v3.3.2",
+            "release_tar": "https://api.github.com/repos/blessed-forge/NerfedButtons/tarball/v3.3.2",
+            "release_zip": "https://api.github.com/repos/blessed-forge/NerfedButtons/zipball/v3.3.2"
         },
         "src": "blessed-forge"
     },
@@ -77,9 +77,9 @@
             "homepage_url": "https://github.com/blessed-forge/RoR_SoR",
             "issues_url": "https://api.github.com/repos/blessed-forge/RoR_SoR/issues{/number}",
             "name": "RoR_SoR",
-            "release_name": "v1.1.3a",
-            "release_tar": "https://api.github.com/repos/blessed-forge/RoR_SoR/tarball/v1.1.3a",
-            "release_zip": "https://api.github.com/repos/blessed-forge/RoR_SoR/zipball/v1.1.3a"
+            "release_name": "v1.1.5",
+            "release_tar": "https://api.github.com/repos/blessed-forge/RoR_SoR/tarball/v1.1.5",
+            "release_zip": "https://api.github.com/repos/blessed-forge/RoR_SoR/zipball/v1.1.5"
         },
         "src": "blessed-forge"
     },
