@@ -1,4 +1,64 @@
 {
+    "AggroMeter": {
+        "latest_info": {
+            "description": "Displays the current list of Aggro holders on Heroes/Lords",
+            "homepage_url": "https://github.com/blessed-forge/AggroMeter",
+            "issues_url": "https://api.github.com/repos/blessed-forge/AggroMeter/issues{/number}",
+            "name": "AggroMeter",
+            "release_name": "1.1",
+            "release_tar": "https://api.github.com/repos/blessed-forge/AggroMeter/tarball/1.1",
+            "release_zip": "https://api.github.com/repos/blessed-forge/AggroMeter/zipball/1.1"
+        },
+        "src": "blessed-forge"
+    },
+    "AutoDismount": {
+        "latest_info": {
+            "description": "Automatically dismounts you when abilities fail due to being mounted.",
+            "homepage_url": "https://github.com/blessed-forge/AutoDismount",
+            "issues_url": "https://api.github.com/repos/blessed-forge/AutoDismount/issues{/number}",
+            "name": "AutoDismount",
+            "release_name": "2.0",
+            "release_tar": "https://api.github.com/repos/blessed-forge/AutoDismount/tarball/2.0",
+            "release_zip": "https://api.github.com/repos/blessed-forge/AutoDismount/zipball/2.0"
+        },
+        "src": "blessed-forge"
+    },
+    "BuffHead": {
+        "latest_info": {
+            "description": "Overhead buff/debuff indicators.",
+            "homepage_url": "https://github.com/blessed-forge/BuffHead",
+            "issues_url": "https://api.github.com/repos/blessed-forge/BuffHead/issues{/number}",
+            "name": "BuffHead",
+            "release_name": "v2.2.5",
+            "release_tar": "https://api.github.com/repos/blessed-forge/BuffHead/tarball/v2.2.5",
+            "release_zip": "https://api.github.com/repos/blessed-forge/BuffHead/zipball/v2.2.5"
+        },
+        "src": "blessed-forge"
+    },
+    "ClosetGoblin": {
+        "latest_info": {
+            "description": "A gear switching mod. The name pays homage to the WoW AddOn ClosetGnome. RoR fix by Sullemunk",
+            "homepage_url": "https://github.com/blessed-forge/ClosetGoblin",
+            "issues_url": "https://api.github.com/repos/blessed-forge/ClosetGoblin/issues{/number}",
+            "name": "ClosetGoblin",
+            "release_name": "v2.5.6",
+            "release_tar": "https://api.github.com/repos/blessed-forge/ClosetGoblin/tarball/v2.5.6",
+            "release_zip": "https://api.github.com/repos/blessed-forge/ClosetGoblin/zipball/v2.5.6"
+        },
+        "src": "blessed-forge"
+    },
+    "CraftValueTip": {
+        "latest_info": {
+            "description": "Adds crafting values to item tooltips.",
+            "homepage_url": "https://github.com/blessed-forge/CraftValueTip",
+            "issues_url": "https://api.github.com/repos/blessed-forge/CraftValueTip/issues{/number}",
+            "name": "CraftValueTip",
+            "release_name": "1.5.3",
+            "release_tar": "https://api.github.com/repos/blessed-forge/CraftValueTip/tarball/1.5.3",
+            "release_zip": "https://api.github.com/repos/blessed-forge/CraftValueTip/zipball/1.5.3"
+        },
+        "src": "blessed-forge"
+    },
     "DuffTimer": {
         "latest_info": {
             "description": null,
@@ -35,6 +95,18 @@
         },
         "src": "blessed-forge"
     },
+    "MGRemix": {
+        "latest_info": {
+            "description": "Secondary Cultivation UI to make things faster",
+            "homepage_url": "https://github.com/blessed-forge/MGRemix",
+            "issues_url": "https://api.github.com/repos/blessed-forge/MGRemix/issues{/number}",
+            "name": "MGRemix",
+            "release_name": "v2.33",
+            "release_tar": "https://api.github.com/repos/blessed-forge/MGRemix/tarball/v2.33",
+            "release_zip": "https://api.github.com/repos/blessed-forge/MGRemix/zipball/v2.33"
+        },
+        "src": "blessed-forge"
+    },
     "MegaphonePlus": {
         "latest_info": {
             "description": "Make your warband leader's pronouncement more noticeable",
@@ -44,6 +116,18 @@
             "release_name": "v2.2",
             "release_tar": "https://api.github.com/repos/blessed-forge/MegaphonePlus/tarball/v2.2",
             "release_zip": "https://api.github.com/repos/blessed-forge/MegaphonePlus/zipball/v2.2"
+        },
+        "src": "blessed-forge"
+    },
+    "Moth": {
+        "latest_info": {
+            "description": "MouseOver Target Hover",
+            "homepage_url": "https://github.com/blessed-forge/Moth",
+            "issues_url": "https://api.github.com/repos/blessed-forge/Moth/issues{/number}",
+            "name": "Moth",
+            "release_name": "1.21r49",
+            "release_tar": "https://api.github.com/repos/blessed-forge/Moth/tarball/1.21r49",
+            "release_zip": "https://api.github.com/repos/blessed-forge/Moth/zipball/1.21r49"
         },
         "src": "blessed-forge"
     },
@@ -71,6 +155,15 @@
         },
         "src": "blessed-forge"
     },
+    "Pocket-Palette": {
+        "latest_info": {
+            "description": "Addon for Return of Reckoning",
+            "homepage_url": "https://github.com/blessed-forge/Pocket-Palette",
+            "issues_url": "https://api.github.com/repos/blessed-forge/Pocket-Palette/issues{/number}",
+            "name": "Pocket-Palette"
+        },
+        "src": "blessed-forge"
+    },
     "RoR_SoR": {
         "latest_info": {
             "description": "Show global State of the Realm - Zone, Keep, and BO status for embattled zones",
@@ -80,6 +173,18 @@
             "release_name": "v1.1.5",
             "release_tar": "https://api.github.com/repos/blessed-forge/RoR_SoR/tarball/v1.1.5",
             "release_zip": "https://api.github.com/repos/blessed-forge/RoR_SoR/zipball/v1.1.5"
+        },
+        "src": "blessed-forge"
+    },
+    "TidyRoll": {
+        "latest_info": {
+            "description": "Custom Auto-roller to make rolling on loot easier",
+            "homepage_url": "https://github.com/blessed-forge/TidyRoll",
+            "issues_url": "https://api.github.com/repos/blessed-forge/TidyRoll/issues{/number}",
+            "name": "TidyRoll",
+            "release_name": "1.3.0",
+            "release_tar": "https://api.github.com/repos/blessed-forge/TidyRoll/tarball/1.3.0",
+            "release_zip": "https://api.github.com/repos/blessed-forge/TidyRoll/zipball/1.3.0"
         },
         "src": "blessed-forge"
     },

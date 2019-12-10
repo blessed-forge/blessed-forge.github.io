@@ -1,4 +1,4 @@
-PYTHON=?python3
+PYTHON ?= python3
 
 # putting a GITHUB_BASIC_AUTH def into Makefile.local makes life more pleasant
 -include Makefile.local
