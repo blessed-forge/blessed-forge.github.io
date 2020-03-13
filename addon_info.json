@@ -170,9 +170,9 @@
             "homepage_url": "https://github.com/blessed-forge/RoR_SoR",
             "issues_url": "https://api.github.com/repos/blessed-forge/RoR_SoR/issues{/number}",
             "name": "RoR_SoR",
-            "release_name": "v1.1.5",
-            "release_tar": "https://api.github.com/repos/blessed-forge/RoR_SoR/tarball/v1.1.5",
-            "release_zip": "https://api.github.com/repos/blessed-forge/RoR_SoR/zipball/v1.1.5"
+            "release_name": "v1.2.0",
+            "release_tar": "https://api.github.com/repos/blessed-forge/RoR_SoR/tarball/v1.2.0",
+            "release_zip": "https://api.github.com/repos/blessed-forge/RoR_SoR/zipball/v1.2.0"
         },
         "src": "blessed-forge"
     },
